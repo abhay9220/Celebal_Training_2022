@@ -6,3 +6,4 @@
 ### code 03 - Write a function
 ### code 04 - Find Angle MBC
 ### code 05 - The Minion Game
+### code 06 - No Idea!
