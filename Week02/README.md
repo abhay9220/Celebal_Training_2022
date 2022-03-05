@@ -9,3 +9,4 @@
 ### code 06 - No Idea!
 ### code 07 - itertools.permutations()
 ### code 08 - Polar Coordinates
+### code 09 - Triangle Quest 2
