@@ -14,6 +14,13 @@
 ### code 11 - Alphabet Rangoli
 ### code 12 - Capitalize!
 ### code 13 - itertools.product()
+### code 14 - DefaultDict Tutorial
+### code 15 - Calendar Module
+### code 16 - Exceptions
+### code 17 - Collections.namedtuple()
+### code 18 - Collections.OrderedDict()
+### code 19 - Symmetric Difference
+### code 20 - itertools.combinations()
 ### code 21 - Tuples
 ### code 22 - sWAP cASE 
 ### code 23 - What's Your Name?
