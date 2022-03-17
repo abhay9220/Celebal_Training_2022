@@ -1,3 +1,2 @@
-### HackerRank SQL(Basic)
-### HackerRank SQL(Medium)
-### HackerRank SQL(Intermediate)
+### HackerRank SQL(Easy - Basic)
+### HackerRank SQL(Easy - Medium)
